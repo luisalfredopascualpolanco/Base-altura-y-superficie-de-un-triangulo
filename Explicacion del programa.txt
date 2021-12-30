@@ -1,0 +1,3 @@
+Explicacion del programa:
+
+Es una app de consola que solicita una cantidad de numeros, los cuales pide el valor de la base y la altura, pero calcula la superficie y muestra la base, altura y superficie de cada triangulo. Ademas nos dice cuantos triangulos hay con una superficie maryor a 12 metros
